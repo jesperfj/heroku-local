@@ -4,10 +4,7 @@ Build and run apps locally with Docker.
 
 ## Pre-requisites
 
-This plugin is designed for use with boot2docker and only tested on Mac so far.
-
-
-## Setup
+Lots. Follow the steps below to set up.
 
 ### Download boot2docker
 
@@ -25,7 +22,7 @@ $ cd - # takes you back where you came from
 ```
 
 
-### Create and share the build folder
+### Create and share a build folder
 
 We're going to share a single folder for all your projects with the boot2docker VM. The VM will in turn make subfolders of this folder available as bind mounts to docker containers.
 
