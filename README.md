@@ -87,7 +87,7 @@ Build dir: /Users/me/.heroku/build/d20140807-1414-slymai
 
 ## Problems
 
-It's waaaaay too slow thanks to performance issues with Virtual Box shared folders. Other options:
+It's waaaaay too slow thanks to [performance issues](http://friendsofvagrant.github.io/v1/docs/nfs.html) with Virtual Box shared folders. Other options:
 
 * NFS
 * Samba
